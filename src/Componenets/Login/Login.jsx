@@ -29,7 +29,7 @@ export default function Login() {
       localStorage.setItem('userToken', response.data.token);
       setUserToken(response.data.token);
       console.log(response.data.token);
-      navigate( '/');
+      navigate( '/home');
     }
   }
 

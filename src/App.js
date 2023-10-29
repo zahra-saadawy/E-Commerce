@@ -26,8 +26,8 @@ import  WishListContext  from './Context/WishListContext';
 let routers = createBrowserRouter([
   {
     path:'/', element:<Layout/>, children:[
-      {index: true, element:<ProtectedRoute><Home/></ProtectedRoute>},
-      {path: 'login', element:<Login/>},
+      {element:<ProtectedRoute><Home/></ProtectedRoute>},
+      {index: true, path: 'login', element:<Login/>},
       {path: 'register', element:<Register/>},
       {path: 'cart', element:<ProtectedRoute><Cart/></ProtectedRoute>},
       {path: 'products', element:<ProtectedRoute><Products/></ProtectedRoute>},
@@ -42,7 +42,7 @@ let routers = createBrowserRouter([
       {path: 'categories', element:<ProtectedRoute><Categories/></ProtectedRoute>},
       {path: 'productdetails/:id', element:<ProtectedRoute><PorductDetails/></ProtectedRoute>},
 
-      {path: '*', element:<Notfound/>}
+      {path: '*', element:<Login/>}
 
     ]
   }
