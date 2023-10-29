@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/E-Commerce/static/css/main.29c294dd.css",
+    "main.js": "/E-Commerce/static/js/main.57f1584d.js",
+    "static/media/fa-solid-900.ttf": "/E-Commerce/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/amExpress.png": "/E-Commerce/static/media/amExpress.749a96abc71d34a8d216.png",
+    "static/media/fa-brands-400.ttf": "/E-Commerce/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/E-Commerce/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/E-Commerce/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/playstore.png": "/E-Commerce/static/media/playstore.88c0cf672ae4dd873d7f.png",
+    "static/media/fa-regular-400.ttf": "/E-Commerce/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/applestore.png": "/E-Commerce/static/media/applestore.ac8ebb531a4c6685aa8a.png",
+    "static/media/fa-regular-400.woff2": "/E-Commerce/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/paypal.png": "/E-Commerce/static/media/paypal.e3abf7ded251409784b6.png",
+    "static/media/masterCard.png": "/E-Commerce/static/media/masterCard.2fac67947182dbd8dc84.png",
+    "static/media/main4.jpg": "/E-Commerce/static/media/main4.96a08320f0007d30af67.jpg",
+    "static/media/main3.jpg": "/E-Commerce/static/media/main3.941f444ea4800c7f2e40.jpg",
+    "static/media/freshcart-logo.svg": "/E-Commerce/static/media/freshcart-logo.af33f2cb2a100f447f3b8c388932e12a.svg",
+    "static/media/fa-v4compatibility.ttf": "/E-Commerce/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/E-Commerce/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/logo.svg": "/E-Commerce/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/E-Commerce/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/E-Commerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/E-Commerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/E-Commerce/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/E-Commerce/index.html",
+    "main.29c294dd.css.map": "/E-Commerce/static/css/main.29c294dd.css.map",
+    "main.57f1584d.js.map": "/E-Commerce/static/js/main.57f1584d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29c294dd.css",
+    "static/js/main.57f1584d.js"
+  ]
+}
